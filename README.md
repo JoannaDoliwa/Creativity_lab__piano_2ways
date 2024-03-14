@@ -2,7 +2,7 @@
 Authors
 ---------
 Joanna Doliwa  
-based on the 
+based on the tuturials from the COMMON CODING (Piano1) and Technoreview85 (Piano2) YouTube channels
 
 Project description
 ----------
@@ -16,19 +16,26 @@ Materials and tech used
 ------
 **Piano 1**  
 - Arduino Uno
-- buzzer (add description)
-- wires (add description)
+- buzzer (YD27 0,5 W 80hm - 27x5mm)
+- wires
 - 10kΩ resistors
 - tin foil
 - BreadBoard
 
 **Piano 2**
 - Arduino Uno
-- buzzer (add description)
-- wires (add description)
-- buttons (add description)
+- buzzer (YD27 0,5 W 80hm - 27x5mm)
+- wires
+- buttons
 - 3D-printed PLA keys
-- BreadBoard
+- BreadBoard  
+
+Piano1:  
+![image](https://github.com/JoannaDoliwa/Creativity_lab__piano_2ways/assets/125126159/0ef4cd8c-1a76-4a7d-a5c3-1a62bfc2818f)
+
+Piano2:  
+![image](https://github.com/JoannaDoliwa/Creativity_lab__piano_2ways/assets/125126159/3a826cad-7b40-49d5-9ad6-0eb079450967)
+
 
 State of the art
 ------
@@ -40,4 +47,5 @@ Due to their small scales the devices fit into the fMRI scanners and hence might
 
 Sources
 -------
-[1] 
+[1] COMMON CODING "#204 - How to make arduino piano" tutorial: https://www.youtube.com/watch?v=BGoQZt4qBNc&list=PLvGXeIUBv6u5d1M6ja_MMRW8oSEPmixws&index=3
+[2] Technoreview85 " How to make an electronic piano using Arduino" tutorial: https://www.youtube.com/watch?v=6cAqSN6fC8g&list=PLvGXeIUBv6u5d1M6ja_MMRW8oSEPmixws&index=2
